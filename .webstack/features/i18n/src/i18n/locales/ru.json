@@ -1,0 +1,25 @@
+{
+  "home": {
+    "badge": "Шаблон v{version}",
+    "hero": {
+      "title": "Modern Vue",
+      "subtitle": "Стартовый Шаблон",
+      "description": "Чистый и производительный шаблон Vue 3 с TypeScript и оптимизированной средой разработки."
+    },
+    "actions": {
+      "getStarted": "Начать",
+      "readMore": "Подробнее"
+    }
+  },
+  "about": {
+    "title": "О проекте",
+    "description": "Этот шаблон — отправная точка для вашего современного проекта на Vue 3.",
+    "features": {
+      "i18n": "Поддержка i18n",
+      "tailwind": "Tailwind CSS",
+      "tests": "Unit Тесты (Vitest)",
+      "pinia": "Поддержка Pinia"
+    },
+    "returnButton": "← Назад"
+  }
+}
