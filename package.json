@@ -11,7 +11,7 @@
     "typescript",
     "pinia"
   ],
-  "homepage": "https://github.com/davidaganov/vue-modern-template",
+  "homepage": "https://aganov.dev/en/docs/guides/starters/vue-modern-template",
   "bugs": {
     "url": "https://github.com/davidaganov/vue-modern-template/issues"
   },
@@ -21,7 +21,7 @@
   },
   "author": {
     "name": "David Aganov",
-    "url": "https://github.com/davidaganov"
+    "url": "https://aganov.dev"
   },
   "license": "MIT",
   "engines": {
